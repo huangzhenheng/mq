@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="jms_activemq:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="jms_activemq.war">
+      <element id="artifact" artifact-name="jms_activemq:war exploded" />
+    </root>
+  </artifact>
+</component>
